@@ -44,11 +44,11 @@
  "create-spritesheet"
  "Create Spritesheet from Layers"
  "Creates a spritesheet by arranging all layers in a single row and merges them into one layer."
- "Your Name" "Your Name" "2024"
+ "sanjeyac" "sanjeyac" "2024"
  "RGB*, GRAY*"
  SF-IMAGE "Image" 0
  SF-DRAWABLE "Drawable" 0
 )
 
-(script-fu-menu-register "create-spritesheet" "<Image>/File/Create")
+(script-fu-menu-register "create-spritesheet" "<Image>/Tools/Spritesheet Tools")
 

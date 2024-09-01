@@ -41,7 +41,7 @@ Once the script is installed, you can easily create a spritesheet from your laye
 1. **Open Your Image**: Open an image with multiple layers in GIMP.
 
 2. **Run the Script**: 
-   - Go to `File > Create > Create Spritesheet from Layers`.
+   - Go to `Tools > Sprintesheet tools > Create Spritesheet from Layers`.
    - The script will arrange all layers in a single row and merge them into one final layer.
 
 3. **Save Your Spritesheet**: After the script finishes, save your new spritesheet image.
