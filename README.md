@@ -2,6 +2,10 @@
 
 This GIMP script automates the process of creating a spritesheet from multiple layers in an image. It arranges all the layers in a single row and merges them into one final layer, making it easy to create spritesheets for game development or other creative projects.
 
+![Alt text](docs/screenshot.png)
+
+Note: Tested on Ubuntu 22.04 with gimp 2.10
+
 ## Features
 
 - Arranges all layers in the current image into a single row.
